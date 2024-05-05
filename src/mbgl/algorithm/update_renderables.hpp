@@ -136,6 +136,5 @@ void updateRenderables(GetTileFn getTile,
         }
     }
 }
-
 } // namespace algorithm
 } // namespace mbgl
